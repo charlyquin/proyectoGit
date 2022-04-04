@@ -1,2 +1,3 @@
 la primera vez el archivo se encuentra en untracking. 
 voy a guardar en el area de stagin para que quede en tracking con el comando git add
+no le voy a dar commit aun pero voy a agregar esta nueva linea a ver que sucede. 
