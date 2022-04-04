@@ -1,1 +1,5 @@
 le agrego una linea para que quede tracking
+al darle git add el archivo deja de estar en untracking y pasa a staging
+ahora como acabo de agregar mas contenido al archivo y aun no le he dado git add entonces
+habra informacion que no quedara registrada en el commit hasta tanto no haya hecho nuevamente
+git add 
