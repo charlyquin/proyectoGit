@@ -1,2 +1,3 @@
 este es un archivo que voy a grabar con un commit y luego lo voy a borrar con git rm --cached para ver que sucede con el 
 
+nueva linea que se visualizar con el git diff ya que esta en el directorio de trabajo pero no en el repositorio de git add
