@@ -1,0 +1,2 @@
+este es un archivo que voy a grabar con un commit y luego lo voy a borrar con git rm --cached para ver que sucede con el 
+
