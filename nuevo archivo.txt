@@ -1,2 +1,3 @@
 este es un nuevo archivo que va a ser enviado via ssh.
 desde el repositorio local al remoto.
+ahora soy yo el que voy a agregar nuevo contenido
